@@ -1,0 +1,34 @@
+html é divididos em duas partes
+
+/n= quebrar linhas
+
+
+
+
+<head> Titulo
+</head>
+
+<body>  corpo
+</body>
+
+
+
+
+
+{titulo
+configurações de char(meta dado é um dado a respeito  de outro dado que esta na tal pagina)
+key words ()
+conteudo
+autor}
+
+
+
+
+
+
+
+1º texto negrito
+2º fonte maior
+3º espaço
+
+rel= relativo
